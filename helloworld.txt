@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello world hello priyanka
+=======
+hello world
+hello singh
+>>>>>>> 7b0a65d642a61255c5eaccacb9cee8191a82971c
